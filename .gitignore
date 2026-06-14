@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+assets/remember.json
+reports/
+*.pdf
+*.xlsx
+*.csv
+.env
